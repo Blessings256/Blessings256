@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blessings256
 - 👀 I’m interested in ...Tech
-- 🌱 I’m currently learning ...App development with flutter
+- 🌱 I’m currently learning ... Project Management
 - 💞️ I’m looking to collaborate on ... python projects
 - 📫 How to reach me ... b152015@outlook.com
 - ⚡ Fun fact: ... what you experience while eating chilli is a feeling not a taste, that sh*t is hot not sour
