@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blessings256
-- 👀 I’m interested in ...Tech
+- 👀 I’m interested in ...Emerging Trends in Tech
 - 🌱 I’m currently learning ... Project Management
 - 💞️ I’m looking to collaborate on ... python projects
 - 📫 How to reach me ... b152015@outlook.com
